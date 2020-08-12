@@ -1,3 +1,3 @@
 # geob_370Dummy
 
-Instructor: JohnDoe (alias)
+Instructor: JohnDoe (alias), JohnWick
